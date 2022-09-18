@@ -1,6 +1,8 @@
 # FileTypeCopier
 This will copy all files of a certain type (i.e .txt .mp4 .pdf) from one folder to another folder (if the folder does not exist it will be created)
 
+This is a powershell script converted into a .exe with ps2exe
+
 Example: I want all of the .pdf files from downloads, so i would copy the files path from my download folder C:\users\Tj\Downloads and i would then paste it for the first prompt.
 
 For the second prompt i would type .pdf and for the third i would do the same as the first except with what folder i want the files to be copied to.
